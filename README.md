@@ -3,4 +3,4 @@ Sample repository for practicing
 
 New repository for practicing GitHub activities
 
-New lines are added in the Branch file
+New lines are added in the Branch file after main
